@@ -4,13 +4,13 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>afec6fa8-d56a-42f8-aad1-ab2f6cf04d06</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>_2023majus_utemezes.py</StartupFile>
+    <StartupFile>_2023majus_utemezes_py.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
     <Name>2023majus_utemezes</Name>
-    <RootNamespace>2023majus_utemezes</RootNamespace>
+    <RootNamespace>2023majus_utemezes_py</RootNamespace>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
@@ -21,7 +21,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="_2023majus_utemezes.py" />
+    <Compile Include="_2023majus_utemezes_py.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
