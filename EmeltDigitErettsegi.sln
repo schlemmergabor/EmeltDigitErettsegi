@@ -5,7 +5,7 @@ VisualStudioVersion = 17.7.34202.233
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "2023osz_reklam_py", "2023osz_reklam_py\2023osz_reklam_py.pyproj", "{1D4B8BB3-61C1-4CD1-A959-31C7BAF7AA29}"
 EndProject
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "2023majus_utemezes", "2023majus_utemezes\2023majus_utemezes.pyproj", "{AFEC6FA8-D56A-42F8-AAD1-AB2F6CF04D06}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "2023majus_utemezes_py", "2023majus_utemezes_py\2023majus_utemezes_py.pyproj", "{AFEC6FA8-D56A-42F8-AAD1-AB2F6CF04D06}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
